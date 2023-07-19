@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00.290 --> 00:05.960
+Laffón W.S Amazon Web Services Servicios web Amazon.
+
+00:05.970 --> 00:09.680
+Bienvenido a este curso introductorio de Amazon redobles
+
+00:12.620 --> 00:20.180
+Amazon W.S es una colección de servicios web en la nube pública en internet que en su conjunto forma
+
+00:20.180 --> 00:25.640
+una plataforma de computación en la nube ofrecida en internet por Amazon.com.
+
+00:25.700 --> 00:29.960
+Es la plataforma líder en el mercado de la computación en la nube.
+
+00:29.960 --> 00:35.570
+Estos son los productos que ofrece análisis e integración de aplicaciones de realidad aumentada de realidad
+
+00:35.570 --> 00:42.650
+virtual administración de costos Noblesse cadena de bloques aplicaciones empresariales computación integración
+
+00:42.650 --> 00:49.690
+con clientes bases de datos herramientas para desarrolladores informática para usuarios finales.
+
+00:49.910 --> 00:56.240
+Tech Internet de las cosas de aprendizaje automático administración control servicios multimedia migración
+
+00:56.240 --> 01:03.520
+y transferencia soluciones móviles desde entrega de contenido robótica satélite seguridad identidad
+
+01:03.520 --> 01:10.840
+y conformidad almacenamiento y estos son los temas que vamos a tratar en este curso introductorio y
+
+01:11.020 --> 01:15.050
+en gestión de acceso e identidad.
+
+01:15.320 --> 01:16.990
+Primero una pequeña introducción.
+
+01:17.120 --> 01:22.940
+Luego veremos cómo crear grupos de usuarios cómo crear un usuario dentro de un grupo cómo aplicar roles
+
+01:22.940 --> 01:29.240
+políticas como cambiar las contraseñas el acceso de los usuarios cómo acceder mediante una verificación
+
+01:29.240 --> 01:35.270
+multi factor a través del móvil un laboratorio para entrar como usuario nuevo y otro laboratorio para
+
+01:35.270 --> 01:39.860
+entrar con verificación multi factor S3.
+
+01:40.010 --> 01:42.410
+Almacenamiento de datos seguro en la nube.
+
+01:42.410 --> 01:47.720
+Una pequeña introducción luego veremos como crear un back y de subir ficheros al Baquet control de versiones
+
+01:47.720 --> 01:54.530
+de los ficheros copias de seguridad de los ficheros línea de comandos C.L y acceso mediante el terminal
+
+01:54.560 --> 01:59.600
+mediante SSH a los recursos de 3 ciclo de vida de los ficheros.
+
+01:59.600 --> 02:01.160
+Seguridad y encriptación.
+
+02:01.160 --> 02:03.300
+Transferencia acelerada de datos.
+
+02:03.320 --> 02:10.540
+Laboratorio para crear un sitio web estático en S3 y eliminar ficheros y paquetes.
+
+02:10.670 --> 02:18.230
+También veremos el cloud from cómo distribuir datos globalmente además veremos el lector.
+
+02:18.560 --> 02:19.870
+Es decir la nube híbrida.
+
+02:19.880 --> 02:26.000
+Explicaremos un poco como funciona una nube híbrida y Snowball que es una migración para la migración
+
+02:26.000 --> 02:27.050
+de datos.
+
+02:28.400 --> 02:35.240
+Veremos también el heduos que es la capacidad informática la nube una pequeña introducción veremos cómo
+
+02:35.240 --> 02:42.560
+crear una instancia con servidor web Apache parar y eliminar una instancia grupos de seguridad volúmenes
+
+02:42.650 --> 02:46.370
+o discos virtuales para lanzadores de carga.
+
+02:46.380 --> 02:48.690
+Crear una imagen de una máquina.
+
+02:49.370 --> 02:54.460
+Crear una AUME en otra región crear copias de seguridad es Naso.
+
+02:54.950 --> 02:58.640
+Borrar una instancia una imagen y una copia de seguridad.
+
+02:58.730 --> 03:05.840
+Línea de comandos mediante Cendi mediante un terminal con acceso vía SSH podremos acceder a los comandos
+
+03:06.230 --> 03:14.840
+y accedemos a las estancias de dos roles la ejecución de comandos antes de arrancar una instancia datos
+
+03:14.840 --> 03:20.260
+instancias de usuario y el auto escalar lo que nos permite incrementar el número de servidores o distancias
+
+03:20.270 --> 03:22.620
+automáticamente.
+
+03:23.270 --> 03:29.110
+También veremos el esclavo Watch que en la monitorización monitorización de los servicios de dobles
+
+03:29.690 --> 03:33.820
+también veremos DFS o almacenamiento de archivos flexible.
+
+03:33.980 --> 03:37.940
+Y por último veremos Landa cómo ejecutar un código sin servidor.
